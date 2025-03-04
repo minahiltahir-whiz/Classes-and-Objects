@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Class
 {
-    internal class Employee     //Class
+    internal class Employee     
     {
         //Attributes/States/Varaible
         public int Employee_ID;
