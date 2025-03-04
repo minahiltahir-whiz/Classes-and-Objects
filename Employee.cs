@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace Class
 {
-    internal class Employee     
+    internal class Employee    
     {
-        //Attributes/States/Varaible
+        //Attributes/States/Varaibles
         public int Employee_ID;
         public string Name;
         public string Department;
